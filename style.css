@@ -4,22 +4,9 @@
     box-sizing: border-box;
 } */
 
-/* body{
-    background-image: linear-gradient(
-    23deg,
-    hsl(49deg 100% 69%) 0%,
-    hsl(16deg 80% 61%) 2%,
-    hsl(330deg 81% 34%) 12%,
-    hsl(259deg 100% 15%) 50%,
-    hsl(212deg 100% 25%) 88%,
-    hsl(197deg 100% 30%) 98%,
-    hsl(183deg 79% 36%) 100%,
-    );  
-    height: 100vh;
-} */
 body{
+    background-image: linear-gradient(to top, #aaa41e, #c57c26, #c75546, #ae3e65, #7e3b79, #703672, #63326b, #562d64, #6b234f, #742138, #722821, #67340b);
     height: 100vh;
-    /* background-image: linear-gradient(hsl(259deg 100% 15%) 50%,); */
 }
 
 .button{
